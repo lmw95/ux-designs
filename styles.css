@@ -16,7 +16,6 @@
     --yellow: rgba(248, 225, 108, 0.6);
     --melon: rgba(255, 194, 180, 0.6);
     --coral: rgba(251, 143, 103, 0.6);
-
 }
 
 .ui-container {
@@ -245,8 +244,6 @@
 
 .minimal-dropdowns .dropdown-toggle:hover,
 .minimal-dropdowns .dropdown-toggle:focus {
-    background: var(--blue);
-    color: var(--yellow);
     box-shadow: 0 5px 10px rgba(0,0,0,.08), 0 10px 15px rgba(0,0,0,.08);
 }
 
@@ -258,8 +255,6 @@
     font-weight: 900;
     color: var(--blue);
 }
-
-
 
 
 @media screen and (max-width: 991px) {
