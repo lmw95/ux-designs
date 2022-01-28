@@ -46,9 +46,7 @@
     width: 100%;
     background-color: transparent;
     border: 1px solid var(--white);
-    background: -webkit-linear-gradient(45deg, var(--pink), var(--white) 50%);
-        -webkit-background-clip: text;
-        -webkit-text-fill-color: transparent;
+    color: var(--pink);
 }
 
 .dark-dropdowns .dropdown-toggle:hover,
